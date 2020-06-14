@@ -1,0 +1,40 @@
+﻿<Properties StartupConfiguration="{6301E422-753D-81B2-9AB9-1D1F46ABF35E}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Mod/Scripts/Interactables/Chest/ChestInteractable.cs">
+    <Files>
+      <File FileName="Assets/FPS/Scripts/UI/FeedbackFlashHUD.cs" Line="123" Column="49" />
+      <File FileName="Assets/Mod/Scripts/Interactables/Chest/ChestInteractable.cs" Line="14" Column="40" />
+      <File FileName="Assets/Mod/Scripts/Interactables/Interactable.cs" Line="25" Column="28" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="FPS_Mod" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="FPS" expanded="True">
+                <Node name="Scripts" expanded="True">
+                  <Node name="UI" expanded="True" />
+                </Node>
+              </Node>
+              <Node name="Mod" expanded="True">
+                <Node name="Scripts" expanded="True">
+                  <Node name="Interactables" expanded="True">
+                    <Node name="Chest" expanded="True">
+                      <Node name="ChestInteractable.cs" selected="True" />
+                    </Node>
+                  </Node>
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="5f169a37-3510-4fcb-a642-7e0119d32a99" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

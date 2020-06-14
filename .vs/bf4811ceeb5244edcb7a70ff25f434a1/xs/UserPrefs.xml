@@ -1,0 +1,35 @@
+﻿<Properties StartupConfiguration="{DB576AF4-B155-B3AE-C84C-470DB0C8D0DC}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Interactable.cs">
+    <Files>
+      <File FileName="Assets/Interactable.cs" Line="31" Column="33" />
+      <File FileName="Assets/FPS/Scripts/UI/FeedbackFlashHUD.cs" Line="121" Column="12" />
+      <File FileName="Assets/FPS/Scripts/PlayerCharacterController.cs" Line="120" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="bf4811ceeb5244edcb7a70ff25f434a1" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="FPS" expanded="True">
+                <Node name="Scripts" expanded="True">
+                  <Node name="UI" expanded="True" />
+                </Node>
+              </Node>
+              <Node name="OutlineEffect" expanded="True">
+                <Node name="Resources" expanded="True" />
+              </Node>
+              <Node name="Interactable.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="50e8cdaa-b7dc-4d69-be0f-d8cdda79b82e" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
