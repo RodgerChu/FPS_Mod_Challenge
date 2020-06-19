@@ -14853,6 +14853,8 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1612821670}
+  - component: {fileID: 1612821671}
+  - component: {fileID: 1612821672}
   m_Layer: 0
   m_Name: light_fly
   m_TagString: Untagged
@@ -14878,6 +14880,34 @@ Transform:
   m_Father: {fileID: 348677251}
   m_RootOrder: 4
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!111 &1612821671
+Animation:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1612821669}
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Animation: {fileID: 7400000, guid: e58a2f5a5a70ed040a53db8df4510aa0, type: 2}
+  m_Animations:
+  - {fileID: 7400000, guid: e58a2f5a5a70ed040a53db8df4510aa0, type: 2}
+  m_WrapMode: 0
+  m_PlayAutomatically: 1
+  m_AnimatePhysics: 0
+  m_CullingType: 0
+--- !u!114 &1612821672
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1612821669}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9945d8cdc86225f4caf1e61f8fb961b3, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &1632609089
 GameObject:
   m_ObjectHideFlags: 0
